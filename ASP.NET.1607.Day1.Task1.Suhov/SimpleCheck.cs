@@ -9,7 +9,7 @@ namespace ASP.NET._1607.Day1.Task1.Suhov
     public static class SimpleCheck
     {
         /// <summary>Checking whether number is simple</summary> 
-        /// <param name="value">Number which should be checked</param> 
+        /// <param name="value">Number which should be checked </param> 
         /// <returns>If the number <paramref name="n"/> is simple, result:(<paramref name="value"/>) will be true</returns> 
         public static bool IsSimple(int numb)
         {
